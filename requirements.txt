@@ -1,0 +1,11 @@
+Flask==0.10.1
+Jinja2==2.8
+MarkupSafe==0.23
+PyYAML==3.11
+Werkzeug==0.11.2
+argparse==1.2.1
+itsdangerous==0.24
+markovgen==0.4.1
+nltk==2.0.5
+wsgiref==0.1.2
+yolk==0.4.3
